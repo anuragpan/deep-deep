@@ -13,7 +13,11 @@ An AI to play the Rock Paper Scissors game
 1. Clone the repo.
 ```sh
  clone or download this folder.
+ then create a python virtual environment
+$ python -m venv rock-paper-scissors
+
 $ cd rock-paper-scissors
+$  source bin/activate
 ```
 
 2. Install the dependencies
