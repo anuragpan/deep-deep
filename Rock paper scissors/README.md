@@ -39,5 +39,10 @@ $ python3 test.py <path_to_test_image>
 
 6. Play the game with your computer!
 ```sh
-$ python3 play.py
-```
+$ python3 play.py ['yourname']
+```sh
+
+7.Play the game with your friend!
+```sh
+$ python3 2_player_mode.py ['player1']  ['player2']
+```sh
